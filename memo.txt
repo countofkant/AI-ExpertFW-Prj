@@ -6,11 +6,8 @@ I edit in local
 edited in github222222
 
 edition in local 22245674321
-<<<<<<< HEAD
 
-edition in local 3333333333333555555678
-=======
 edition in github
-edition in local 3333333333333555555
->>>>>>> bca7d0b96d77fbcc886b15115051c7d41364734a
+edition in local 3333333333333555555678
+
 edition in github44
